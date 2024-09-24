@@ -1,1 +1,3 @@
 new file
+a=int(input())
+b=int(input())
